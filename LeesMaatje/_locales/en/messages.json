@@ -1,0 +1,22 @@
+{
+  "extensionName": {
+    "message": "ReadBuddy the Dyslexic tool | 3dindeklas.nl",
+    "description": "Title for the extension"
+  },
+  "extensionNameShort": {
+    "message": "ReadBuddy",
+    "description": "Title for the extension"
+  },
+  "extensionDescription": {
+    "message": "ReadBuddy helps people with dyslexia to read texts on websites more easily by using the OpenDyslexia font.",
+    "description": "Description for the extension"
+  },
+  "popupSwitch": {
+    "message": "Use OpenDyslexic",
+    "description": "Title for the switch in the popup window"
+  },
+  "popupFooter": {
+    "message": "Powered by",
+    "description": "Popup foot note about who provided this extension"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "extensionName": {
+    "message": "LeesMaatje de Dyslexie tool | 3dindeklas.nl",
+    "description": "Title for the extension"
+  },
+  "extensionNameShort": {
+    "message": "LeesMaatje",
+    "description": "Title for the extension"
+  },
+  "extensionDescription": {
+    "message": "LeesMaatje helpt mensen met dyslexie om teksten op websites makkelijker te lezen door het OpenDyslexia lettertype toe te passen.",
+    "description": "Description for the extension"
+  },
+  "popupSwitch": {
+    "message": "Gebruik OpenDyslexic",
+    "description": "Title for the switch in the popup window"
+  },
+  "popupFooter": {
+    "message": "Mogelijk gemaakt door",
+    "description": "Popup foot note about who provided this extension"
+  }
+}
